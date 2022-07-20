@@ -1,16 +1,17 @@
-# bmi
+# BNI
+# Screens of 3 APPs 
+1- this simple way - handling login logout using shaird prefrences 
+                   - bmi calculatur and age smart logic calculator 
+                   - saving presestance data localy when login for one time only 
+  
 
-A new Flutter project.
 
-## Getting Started
+2-  smart architecture vesrsion of this simple app 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3- first version of this app using simple code 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
